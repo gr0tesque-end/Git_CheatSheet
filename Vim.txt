@@ -1,0 +1,2 @@
+[i] - for "Insert" mode
+[Esc] -> [:wq] where "w" - save, "q" - quit

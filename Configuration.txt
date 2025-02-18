@@ -1,0 +1,1 @@
+use "git config --global core.editor <editor>" to change the editor
